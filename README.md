@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi, I'm Vladyslav 👋🏼 - Software Developer
 
-<!--
-**vladyslavPlaksa/vladyslavPlaksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in crafting beautiful and user-friendly web interfaces using the latest front-end technologies.
 
-Here are some ideas to get you started:
+## 🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**: `JavaScript (ES6+)`, `Php`, `Python`, `Java`
+
+**Frameworks/Libraries**: `React`, `Next.js`, `Node.js`, `Bootstrap`, `Tailwind`, `Material-UI`, `Redux`
+
+**Tools**: `Docker`, `Webpack`, `Babel`, `Git`, `npm`, `Jest`, `Firebase`
+
+**Practices**: `Responsive Design`, `Web Accessibility`, `Progressive Web Apps (PWA)`, `Agile Methodologies`
+
+## 💵 Work experience
+
+### HeyHomie
+Heyhomie.io is a service platform that offers various home services including cleaning, massage, and flower delivery. The website is designed to connect users with these services easily, focusing on convenience and quality. [Visit webpage](https://heyhomie.io)
+
+## ✒️ About Me
+
+I'm passionate about building responsive, accessible, and interactive web applications. With a keen eye for design and a strong foundation in modern web technologies, I'm always excited to tackle new challenges and create memorable online experiences.
+
+## 📫 Contact Me
+
+I'm open to collaboration and new opportunities. Feel free to reach out to me:
+
+- **Email**: [vladyslavplaksa@gmail.com](mailto:vladyslavplaksa@gmail.com)
+- **LinkedIn**: [LinkedIn Profile]()
+
+Thank you for visiting my profile!
