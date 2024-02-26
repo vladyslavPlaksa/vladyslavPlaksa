@@ -26,6 +26,7 @@ I'm passionate about building responsive, accessible, and interactive web applic
 I'm open to collaboration and new opportunities. Feel free to reach out to me:
 
 - **Email**: [vladyslavplaksa@gmail.com](mailto:vladyslavplaksa@gmail.com)
-- **LinkedIn**: [LinkedIn Profile]()
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/vladyslav-plaksa-071b20238/)
+- **Portfolio Web Page**: [vladyslavplaksa.tech](https://vladyslavplaksa.tech)
 
 Thank you for visiting my profile!
